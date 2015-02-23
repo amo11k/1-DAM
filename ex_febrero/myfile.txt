@@ -1,0 +1,8 @@
+test
+is a
+and this
+of text
+several lines
+that has
+text file
+this is a
